@@ -3,6 +3,5 @@ kind: Config
 deploy:
   kubectl:
     manifests:
-      - kubernetes/permissions/**
       - kubernetes/postgres/**
       - kubernetes/pubsub/**
