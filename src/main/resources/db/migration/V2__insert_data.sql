@@ -1,0 +1,1 @@
+INSERT INTO account values ('2', 'alejandro');
